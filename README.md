@@ -1,5 +1,5 @@
 # kinetic-graph
-Silly little program that converts kinetic data (simulated or not) into a graph showing the decay of reactant concentrations as product concentration increases.
+Silly little program that converts kinetic data (simulated or not) into a graph showing the decay of reactant concentrations as product concentration increases over time.
 
 ### Required files (all in the same directory)
 - Python file [kinetics.py](kinetics.py) (or jupyter notebook file [kinetics.ipynb](kinetics.ipynb))
