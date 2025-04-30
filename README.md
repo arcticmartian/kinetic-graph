@@ -17,5 +17,5 @@ Silly little program that converts kinetic data (simulated or not) into a graph 
 - linux: `python3 kinetics.py`
 - windows terminal (PowerShell): `python3 .\kinetics.py`
 
-## Modeled reactant and product concentration vs. time plot 
+## Modeled reactant and product concentration vs time plot 
 ![Modeled reactant and product concentration vs time plot](kinetics.svg)
